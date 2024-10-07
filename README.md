@@ -1,10 +1,6 @@
 ***************************************************
 # Reliable File Transfer Protocol over UDP
 
-**Eric Voong (20778118)**  
-**CS 436 Winter 2023**  
-**Assignment 02**
-
 ---
 
 ## Description
